@@ -1,14 +1,14 @@
 # P4 - ML Embedding (Gradio) 
-*In this project, an ML classifier is embedded on an app using gradio library on python. Users can interact with the application to make prediction on whether a telco customer will churn or not.
+*In this project, an ML classifier (Random Forest Classifier from  the previous project LP3) is embedded on an app using gradio library on python. Users can interact with the application to make prediction on whether a telco customer will churn or not.
 
 ## Summary
-| Code      | Name        | Published Article |  
-|-----------|-------------|:-------------:|
-|P4     | ML Embedding - Gradio  |  [](/) | 
+| Code      | Name        | Published Article |  Deployed App|
+|-----------|-------------|:-------------:|:-------------:|
+|P4     | ML Embedding - Gradio  |  [](/) |               |
 --------------------------------------------------
 
 ## Project Description
-The project was split in four main phases: 
+The project was completed in four main phases: 
 
 * ### Setting Up Project Repository<br>
   Here, all components of the project repository was set. The main folders included ML asset and src  folders. The dataset for the ML training was also uploaded<br>
