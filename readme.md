@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App|
 |-----------|-------------|:-------------:|:-------------:|
-|P4     | ML Embedding - Gradio  |  [](/) |               |
+|P4     | ML Embedding - Gradio  |https://www.linkedin.com/pulse/ml-embedding-project-gideon-dadzie  [](/) |               |
 --------------------------------------------------
 
 ## Project Description
